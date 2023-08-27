@@ -1,6 +1,6 @@
 ﻿namespace Challonge.Objects
 {
-    public abstract class ChallongeObject
+    public abstract class ChallongeObject : IChallongeObject
     {
     }
 }
